@@ -62,7 +62,7 @@ In the Alpine version `node` is compiled from source and is very small and light
 * `wget -nv -O ~/bin/gulp https://raw.githubusercontent.com/mkenney/docker-npm/master/bin/gulp && chmod 0755 ~/bin/gulp`
 * `wget -nv -O ~/bin/node https://raw.githubusercontent.com/mkenney/docker-npm/master/bin/node && chmod 0755 ~/bin/node`
 * `wget -nv -O ~/bin/npm https://raw.githubusercontent.com/mkenney/docker-npm/master/bin/npm && chmod 0755 ~/bin/npm`
-* `wget -nv -O ~/bin/npm https://raw.githubusercontent.com/mkenney/docker-npm/master/bin/yarn && chmod 0755 ~/bin/yarn`
+* `wget -nv -O ~/bin/yarn https://raw.githubusercontent.com/mkenney/docker-npm/master/bin/yarn && chmod 0755 ~/bin/yarn`
 
 #### debian:jessie
 
@@ -74,7 +74,7 @@ The Debian version is based on `node:latest` and the image is fairly large. Some
 * `wget -nv -O ~/bin/gulp https://raw.githubusercontent.com/mkenney/docker-npm/debian/bin/gulp && chmod 0755 ~/bin/gulp`
 * `wget -nv -O ~/bin/node https://raw.githubusercontent.com/mkenney/docker-npm/debian/bin/node && chmod 0755 ~/bin/node`
 * `wget -nv -O ~/bin/npm https://raw.githubusercontent.com/mkenney/docker-npm/debian/bin/npm && chmod 0755 ~/bin/npm`
-* `wget -nv -O ~/bin/npm https://raw.githubusercontent.com/mkenney/docker-npm/debian/bin/yarn && chmod 0755 ~/bin/yarn`
+* `wget -nv -O ~/bin/yarn https://raw.githubusercontent.com/mkenney/docker-npm/debian/bin/yarn && chmod 0755 ~/bin/yarn`
 
 #### Updating
 
